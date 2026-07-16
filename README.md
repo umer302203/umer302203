@@ -99,16 +99,17 @@
 ## 📈 Top Repositories (Auto-Updating)
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=umer302203&repo=RAG-CHATBOT&theme=radical&hide_border=true" />
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=umer302203&repo=Multi-model-AI-Assistant&theme=radical&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=umer302203&repo=RAG-CHATBOT&theme=radical&hide_border=true&v=2" alt="RAG Chatbot Repo" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=umer302203&repo=Multi-model-AI-Assistant&theme=radical&hide_border=true&v=2" alt="Multi-model AI Assistant Repo" />
 </p>
+
 ---
+
 ## 💻 Primary Languages Used
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=umer302203&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Language Distribution" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=umer302203&layout=compact&theme=radical&hide_border=true&langs_count=8&v=2" alt="Language Distribution" />
 </p>
-
 ---
 
 ## 📜 Certifications & Specializations
