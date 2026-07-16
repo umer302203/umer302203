@@ -22,7 +22,7 @@
 ---
 ## 🧠 About Me
 
-```python
+
 class Umer:
     def __init__(self):
         self.name = "Umer"
@@ -36,7 +36,7 @@ class Umer:
         )
         self.learning = ["LangGraph", "CrewAI", "Multi-Agent Systems"]
         self.future = "Generative AI & Large Language Models"
-```
+
 
 ---
 
