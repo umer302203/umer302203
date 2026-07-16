@@ -1,17 +1,17 @@
 <h1 align="center">
   <pre>
-██╗  ██╗███████╗██╗  ██╗████████╗    ██╗   ██╗ ██████╗ ██╗   ██╗██╗██████╗ 
-╚██╗██╔╝██╔════╝╚██╗██╔╝╚══██╔══╝    ╚██╗ ██╔╝██╔═══██╗██║   ██║██║██╔══██╗
- ╚███╔╝ █████╗   ╚███╔╝    ██║        ╚████╔╝ ██║   ██║██║   ██║██║██║  ██║
- ██╔██╗ ██╔══╝   ██╔██╗    ██║         ╚██╔╝  ██║   ██║██║   ██║██║██║  ██║
-██╔╝ ██╗███████╗██╔╝ ██╗   ██║          ██║   ╚██████╔╝╚██████╔╝██║██████╔╝
-╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝   ╚═╝          ╚═╝    ╚═════╝  ╚═════╝ ╚═╝╚═════╝ 
+██╗   ██╗███╗   ███╗███████╗██████╗ 
+██║   ██║████╗ ████║██╔════╝██╔══██╗
+██║   ██║██╔████╔██║█████╗  ██████╔╝
+██║   ██║██║╚██╔╝██║██╔══╝  ██╔══██╗
+╚██████╔╝██║ ╚═╝ ██║███████╗██║  ██║
+ ╚═════╝ ╚═╝     ╚═╝╚══════╝╚═╝  ╚═╝
   </pre>
 </h1>
 
-<h3 align="center"><i>Busy 20 | Software Engineering | IBM AI Specialization + DeepLearning.AI | ML projects | Math for AI/ML | Future: Gen AI & LLMs</i></h3>
-
----
+<h3 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Busy+20+%7C+Software+Engineering;IBM+AI+Specialization+%2B+DeepLearning.AI;ML+projects+%7C+Math+for+AI%2FML;Future%3A+Gen+AI+%26+LLMs" alt="Typing SVG" />
+</h3>
 
 <div align="center">
 
@@ -99,12 +99,17 @@
 ## 📈 Top Repositories (Auto-Updating)
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=umer302203&layout=compact&theme=radical&hide_border=true&langs_count=10" alt="Top Languages" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=umer302203&repo=RAG-CHATBOT&theme=radical&hide_border=true" />
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=umer302203&repo=Multi-model-AI-Assistant&theme=radical&hide_border=true" />
+</p>
+
+---
+
+## 💻 Primary Languages Used
+
+<!-- FIXED: removed exclude_repo=* which was breaking the image -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=umer302203&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Language Distribution" />
 </p>
 
 ---
@@ -145,14 +150,6 @@
 <td></td>
 </tr>
 </table>
-
----
-
-## 💻 Primary Languages Used
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=umer302203&theme=radical&hide_border=true&layout=donut-vertical&langs_count=8&exclude_repo=*" alt="Language Distribution" />
-</p>
 
 ---
 
