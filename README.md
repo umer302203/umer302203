@@ -1,11 +1,3 @@
-```markdown
-<!-- ╔══════════════════════════════════════════════════════════════════╗ -->
-<!-- ║                                                                    ║ -->
-<!-- ║          U M E R  —  AI ENGINEER DASHBOARD README                  ║ -->
-<!-- ║                                                                    ║ -->
-<!-- ╚══════════════════════════════════════════════════════════════════╝ -->
-
-
 <h1 align="center">
   <pre style="font-size: 18px; line-height: 1.2; color: #00eaff; text-shadow: 0 0 15px #00eaff;">
 ██╗   ██╗███╗   ██╗██████╗ ███████╗
@@ -279,12 +271,3 @@ class Umer:
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=3000&pause=1000&color=00EAFF&center=true&vCenter=true&random=false&width=300&lines=Thanks+for+visiting!+👋;See+you+in+the+next+commit!+🚀" alt="Footer Typing" />
 </p>
-
-<!-- 
-  ═══════════════════════════════════════════════════════════
-  END OF README — Everything above is fully dynamic and
-  auto-updates via GitHub's live SVG API ecosystem.
-  Last template version: v1.0
-  ═══════════════════════════════════════════════════════════
--->
-```
