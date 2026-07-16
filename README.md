@@ -95,7 +95,7 @@
 | 🌿 **[Plant Disease Detector](https://huggingface.co/Umer78786/Plants-Disease)** | 38-class MobileNetV2 + BLIP | PyTorch, MobileNetV2, BLIP |
 
 ---
-
+ 
 ## 📈 Top Repositories (Auto-Updating)
 
 <p align="center">
