@@ -102,12 +102,9 @@
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=umer302203&repo=RAG-CHATBOT&theme=radical&hide_border=true" />
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=umer302203&repo=Multi-model-AI-Assistant&theme=radical&hide_border=true" />
 </p>
-
 ---
-
 ## 💻 Primary Languages Used
 
-<!-- FIXED: removed exclude_repo=* which was breaking the image -->
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=umer302203&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Language Distribution" />
 </p>
